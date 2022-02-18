@@ -1,3 +1,5 @@
+#!name=skip unicom network
+#!system=mac
 [General]
 skip-proxy = %INSERT% 132.0.0.0/8
 

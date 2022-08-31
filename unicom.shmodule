@@ -4,4 +4,4 @@
 skip-proxy = %INSERT% 132.0.0.0/8, 1.0.0.0/8, 2.0.0.0/8, *.unicom.local, *.chinaunicom.cn, *.shimo.im, *.unicomgd.com
 
 [rule]
-DOMAIN-KEYWORD,battle,Proxy
+DOMAIN-KEYWORD,battle,PROXY

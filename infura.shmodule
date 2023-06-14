@@ -1,4 +1,4 @@
 #!name=infura rpc
 #!system=mac
 [URL Rewrite]
-^https://alpha-mainnet.starknet.io https://starknet-mainnet.infura.io/v3/1de872dd91dd496b835f70453b0894cb 302
+"^https?:\/\/(www.)?starknet\.io\/" https://starknet-mainnet.infura.io/v3/1de872dd91dd496b835f70453b0894cb 302

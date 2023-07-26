@@ -1,5 +1,5 @@
 #!name=skip unicom network
 #!system=mac
 [General]
-skip-proxy = %INSERT%  *.hzunicomgd.com, *.unicom.local, *.chinaunicom.cn, *.shimo.im, *.unicomgd.com
+skip-proxy = %INSERT% *.hzunicomgd.com,*.chinaunicom.cn, *.unicomgd.com
 
